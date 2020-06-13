@@ -3,6 +3,7 @@ import random
 intentos = 0
 numeromin=1
 numeromax=20
+##agregamos unos correros
 
 print("hola cual es tu nombre wachin : ")
 ususario=input()
